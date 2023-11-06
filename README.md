@@ -1,1 +1,2 @@
-# web
+# web 
+This is a web application that serves as a platform for managing and visualizing data related to points of interest and user visits. It allows users to perform various actions, such as user registration and login, updating user profiles, setting COVID-19 status, and managing their visits to different points of interest. Additionally, there is an administrative interface for managing and uploading data about points of interest. The application uses MySQL for data storage, Express.js for web server functionality, and supports file uploads for data updates. 
